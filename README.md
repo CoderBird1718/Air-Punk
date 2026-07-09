@@ -2,7 +2,7 @@
 
 Draw in thin air using just your hand — no mouse, no touch, no stylus. A webcam-based gesture drawing app powered by [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands), wrapped in a magenta/cyan cyberpunk HUD. Point to draw, open your palm to erase, pinch to reposition, and make a fist to pause the ink. Runs entirely client-side — nothing is recorded or uploaded.
 
-**[Live demo →] **
+**[Live demo →]  https://coderbird1718.github.io/Air-Punk/**
 
 ## Gestures
 
